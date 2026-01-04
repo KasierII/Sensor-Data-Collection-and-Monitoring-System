@@ -3,3 +3,4 @@
 还有bonus的 Python 客户端（通过 socket 接收实时数据）
 1.输入chmod +x run.sh
 2.输入./run.sh
+![Uploading image.png…]()
