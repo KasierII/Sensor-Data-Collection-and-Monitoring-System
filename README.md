@@ -18,8 +18,13 @@ IPC 机制：共享内存（shmget）、消息队列（msgsnd/msgrcv）、信号
 工程实践：Makefile 自动化构建、Bash 脚本部署、模块化代码设计
 
 ▶ 快速启动
+
 git clone https://github.com/KaiserII/Sensor-Data-Collection-and-Monitoring-System.git
+
 cd Sensor-Data-Collection-and-Monitoring-System
+
 chmod +x run.sh
+
 ./run.sh                # 一键编译并运行
+
 tail -f sensor_log.txt  # 查看实时日志
