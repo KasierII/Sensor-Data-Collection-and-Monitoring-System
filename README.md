@@ -19,7 +19,7 @@ IPC 机制：共享内存（shmget）、消息队列（msgsnd/msgrcv）、信号
 
 ▶ 快速启动
 
-git clone https://github.com/KaiserII/Sensor-Data-Collection-and-Monitoring-System.git
+git clone https://github.com/DamwonGaming/Sensor-Data-Collection-and-Monitoring-System.git
 
 cd Sensor-Data-Collection-and-Monitoring-System
 
